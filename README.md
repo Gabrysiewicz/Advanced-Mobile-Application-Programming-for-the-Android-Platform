@@ -1,2 +1,2 @@
-# S9_Zaawansowane-Programowanie-Aplikacji-Mobilnych-Na-Platform--Android
-Zaawansowane Programowanie Aplikacji Mobilnych Na Platformę Android
+<h1 align='center'> Zaawansowane Programowanie Aplikacji Mobilnych Na Platformę Android </h1>
+
